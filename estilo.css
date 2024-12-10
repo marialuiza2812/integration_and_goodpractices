@@ -1,0 +1,50 @@
+body{
+    background-color: #E3E0F3;
+}
+
+/* Estilo base do menu */
+.menu ul {
+    list-style-type: none; /* Remove marcadores da lista */
+    display: flex; /* Alinha itens em uma linha horizontal */
+    gap: 20px; /* Espaço entre os itens */
+    padding: 0;
+    margin: 0;
+    justify-content: center; /* Centraliza o menu horizontalmente */
+    background-color: blueviolet;
+}
+
+/* Estilo dos links */
+.menu ul li a {
+    text-decoration: none; /* Remove sublinhado */
+    color: #333; /* Cor do texto */
+    padding: 10px 15px; /* Espaçamento interno do link */
+    transition: color 0.3s ease; /* Efeito suave para o hover */
+}
+
+header{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 15px;
+   
+}
+
+h2{   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin: 50px;
+    font-size: 20px;
+
+}
+
+img{
+    margin: auto;
+}
+
+#back video{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(147, 124, 177);
+   
+}

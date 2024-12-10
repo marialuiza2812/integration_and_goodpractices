@@ -1,0 +1,43 @@
+
+a{
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+   
+
+h3{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 60px;
+    
+  
+  
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 30px;
+    
+    
+}
+
+ul{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     height: 90px;
+    
+}
+li{
+    color: aliceblue;
+}
+
